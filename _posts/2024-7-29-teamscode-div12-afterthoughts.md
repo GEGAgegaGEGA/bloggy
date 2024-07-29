@@ -10,11 +10,12 @@ mathjax: true
 tags:
     - Competitive Programming
     - Codeforces
+    - Problemsetting
 ---
 
 Did a lot of competitive programming yesterday :D.
 
-[Pinely Round 4 (Division 1+2)](https://codeforces.com/contest/1991) was today (spoiler: I did bad). As usual, ABC were easy problems. Then came D.
+[Pinely Round 4 (Division 1+2)](https://codeforces.com/contest/1991) was yesterday (spoiler: I did bad). As usual, ABC were easy problems. Then came D.
 
 ![Clarification answer: least stupid constructive](/img/content_images/2024_7_29_constructive.png)
 
