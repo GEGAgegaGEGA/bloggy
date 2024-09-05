@@ -9,6 +9,7 @@ catalog: true
 mathjax: true
 tags:
     - Life
+    - School
 ---
 
 Ok so school started... didn't even finish homework, got thru 1 full + 2 half books. :skull: anyway a brief summary:

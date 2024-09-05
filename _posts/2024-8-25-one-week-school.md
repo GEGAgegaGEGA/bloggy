@@ -9,6 +9,7 @@ catalog: true
 mathjax: true
 tags:
     - Life
+    - School
     - Competitive Programming
     - Codeforces
     - Atcoder
