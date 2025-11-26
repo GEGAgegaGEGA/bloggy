@@ -69,11 +69,11 @@ USNCO National exam. the most productive thing I did was eat cookies there. I go
 
 May. AP exams. btw our robotics team failed, for like the third year in a row. Also, I forgot about the frisbee season, anyway we lost every game we played.
 
-At this point I'm rejected from all the summer camps. I decided to cold email some profs at Rutgers to see if I could work on some TCS research over the summer. TL;DR: there is a prof who agreed to work with me (thank you so much), but unfortunately I didn't have as much time to work on it as I thought I would, and the problem I was working on was not really my strong suit (euclidean geometry), so I didn't get much done. 
+At this point I'm rejected from all the summer camps. I decided to cold email some profs at Rutgers to see if I could work on some TCS research over the summer. TL;DR: there is a prof who agreed to work with me (thank you so much), but unfortunately I didn't have as much time to work on it as I thought I would, and the problem I was working on was not really my strong suit (euclidean geometry), so I didn't get much done. Still, it was educational and I learned a lot.
 
 I was also grinding one of the crowdmath internship final papers, its on arXiv now, submitted to journals. much thanks to my teammates for their contributions and to our mentors for the support and guidance.
 
-Anyway, summer. went on vacation for a week or two. teamscode. more grinding CMI. OPhO.
+Anyway, the rest of the summer. I went on vacation for a week or two. teamscode. more grinding CMI. OPhO.
 
 btw I kinda got into playing tetrio and nethack (for a while). i still play an unhealthy amount of tetrio.
 
