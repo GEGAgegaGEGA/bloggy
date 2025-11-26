@@ -86,11 +86,18 @@ https://github.com/kitian616/jekyll-TeXt-theme
       for (i = 0; i < sectionArticles.length; i++) {
         $articles = sectionArticles[i];
         for (j = 0; j < $articles.length; j++) {
+          var tags = $articles.eq(j).data('tags').split(',');
+          var bad=0;
+          for (k=0;k<tags.length;k++) if(tags[k]==='alter'&&tag!=='alter') {
+            console.log(tags,tag);
+            bad=1;
+            break;
+          }
+          if(bad) continue;
           if (tag === '' || tag === undefined) {
             result[i] || (result[i] = {});
             result[i][j] = true;
           } else {
-            var tags = $articles.eq(j).data('tags').split(',');
             for (k = 0; k < tags.length; k++) {
               if (tags[k] === tag) {
                 result[i] || (result[i] = {});
