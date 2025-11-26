@@ -7,6 +7,7 @@ author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 mathjax: true
+alter: true
 tags:
     - Competitive Programming
     - Codeforces
