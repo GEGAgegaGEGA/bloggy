@@ -1,4 +1,4 @@
-My blog
+stolen blog
 
 (forked from [Hux Blog](https://huangxuan.me), thanks so much!)
 
