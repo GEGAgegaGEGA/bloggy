@@ -12,7 +12,7 @@ tags:
     - uwu
 ---
 
-[broccoli](/img/content_images/broccoli.png)
+[broccoli](/bloggy/img/content_images/broccoli.png)
 
 So. I finished all of my college applications. How do I feel? idk.
 
@@ -49,6 +49,8 @@ In terms of blogging... I agree with zjs that it would be nice to look back on m
 
 That's also why this'll prolly act like a more private but censored journal. If someone finds that this site suddenly became active, good for them and it would be my preference for others not to share it.
 
-I'm just... yapping... and like a bit numb and tired... and I didn't know what to do so I decided to start writing this to have some purpose...
+I'm just... yapping... and like a bit numb and tired... and I didn't know what to do so I decided to start writing this to have some purpose... 
+
+Proofreading is pain and the purpose of blog is to just yap and get ideas down imo. So if it's cringe or bad... whatever... that's not the point so ignore it future me.
 
 Also remind me to get better at file management and organization.
