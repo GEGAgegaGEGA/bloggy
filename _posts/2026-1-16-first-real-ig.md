@@ -12,7 +12,7 @@ tags:
     - uwu
 ---
 
-[broccoli](/bloggy/img/content_images/broccoli.png)
+![broccoli](/bloggy/img/content_images/broccoli.png)
 
 So. I finished all of my college applications. How do I feel? idk.
 
